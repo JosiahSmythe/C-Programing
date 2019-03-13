@@ -1,0 +1,11 @@
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/bin/Debug/netcoreapp2.2/Project 1.deps.json
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/bin/Debug/netcoreapp2.2/Project 1.runtimeconfig.json
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/bin/Debug/netcoreapp2.2/Project 1.runtimeconfig.dev.json
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/bin/Debug/netcoreapp2.2/Project 1.dll
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/bin/Debug/netcoreapp2.2/Project 1.pdb
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/obj/Debug/netcoreapp2.2/Project 1.csprojAssemblyReference.cache
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/obj/Debug/netcoreapp2.2/Project 1.csproj.CoreCompileInputs.cache
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/obj/Debug/netcoreapp2.2/Project 1.AssemblyInfoInputs.cache
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/obj/Debug/netcoreapp2.2/Project 1.AssemblyInfo.cs
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/obj/Debug/netcoreapp2.2/Project 1.dll
+/Users/Josiah/RiderProjects/CSCI 2910 Project 1 2.0/Project 1/obj/Debug/netcoreapp2.2/Project 1.pdb

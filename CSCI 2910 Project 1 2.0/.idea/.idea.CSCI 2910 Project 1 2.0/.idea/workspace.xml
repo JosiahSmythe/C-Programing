@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3efc870-1a01-4ffb-a519-bf9aca7f7cdc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSCI 2910 Project 1 2.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/Text.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2865">
+              <caret line="200" column="38" selection-start-line="200" selection-start-column="38" selection-end-line="200" selection-end-column="38" />
+              <folding>
+                <marker date="1551887393302" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1551887393302" expanded="false" signature="522:751" ph="..." />
+                <marker date="1551887393302" expanded="true" signature="772:7929" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="779:898" ph="/// This class collects and minipulates the text in the file &quot;FixedSampleText.txt&quot; ... " />
+                <marker date="1551887393302" expanded="true" signature="920:7927" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="935:1047" ph="/// this string will be set to a random sentence from the text file ... " />
+                <marker date="1551887393302" expanded="true" signature="1108:1217" ph="/// this string will be set to a random word from the text file  ... " />
+                <marker date="1551887393302" expanded="true" signature="1274:1386" ph="/// this string list will hold all the sentences from the text file ... " />
+                <marker date="1551887393302" expanded="true" signature="1448:1553" ph="/// this sting list will hold all the words in the text file ... " />
+                <marker date="1551887393302" expanded="true" signature="1611:1716" ph="/// a string that is a randome length cut from the text file ... " />
+                <marker date="1551887393302" expanded="true" signature="1772:1897" ph="/// a string of random length in the same sequence as they were in the text file ... " />
+                <marker date="1551887393302" expanded="true" signature="1954:2050" ph="/// string holding the unchanged text from the file ... " />
+                <marker date="1551887393302" expanded="true" signature="2105:2198" ph="/// counter for the number of sentences gathered ... " />
+                <marker date="1551887393302" expanded="true" signature="2253:2342" ph="/// counter for the number of words gathered ... " />
+                <marker date="1551887393302" expanded="true" signature="2397:2690" ph="/// iniciates all the functions of this method including, reading in the file, ... " />
+                <marker date="1551887393302" expanded="true" signature="2712:3112" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="3121:3265" ph="/// Creates a list of all words in the string passed in ... " />
+                <marker date="1551887393302" expanded="true" signature="3317:3893" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="3403:3630" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="3778:3870" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="3911:4065" ph="/// creates a list of all the sentences from the passed in string ... " />
+                <marker date="1551887393302" expanded="true" signature="4121:4691" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="4332:4439" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="4571:4681" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="4701:4813" ph="/// sets the randomeWord string to a random word from the word list ... " />
+                <marker date="1551887393302" expanded="true" signature="4852:5010" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="5028:5152" ph="/// set the random sentence string to a randome sentence from the sentence list ... " />
+                <marker date="1551887393302" expanded="true" signature="5196:5374" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="5392:5511" ph="/// creates a paragraph of senteces in subsequent order of a random length ... " />
+                <marker date="1551887393302" expanded="true" signature="5549:6333" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="5899:6273" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="5981:6044" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="6351:6507" ph="/// creates a string of subsequent words with a length passed in  ... " />
+                <marker date="1551887393302" expanded="true" signature="6560:7258" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="6854:7192" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="6928:6991" ph="{...}" />
+                <marker date="1551887393302" expanded="true" signature="7268:7427" ph="/// retuns values created and gathered in this class as a string ... " />
+                <marker date="1551887393302" expanded="true" signature="7469:7921" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/ColorGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+              <folding>
+                <marker date="1550510874205" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1550510874205" expanded="false" signature="522:551" ph="..." />
+                <marker date="1550510874205" expanded="true" signature="572:2999" ph="{...}" />
+                <marker date="1550510874205" expanded="true" signature="583:689" ph="/// creates a randome color with values for hex, rgb and a color name ... " />
+                <marker date="1550510874205" expanded="true" signature="721:2997" ph="{...}" />
+                <marker date="1550510874205" expanded="true" signature="740:847" ph="/// stores the value of the color as a hexidicimal in a string ... " />
+                <marker date="1550510874205" expanded="true" signature="902:1007" ph="/// stores the value of the color as a rgb color in a string ... " />
+                <marker date="1550510874205" expanded="true" signature="1062:1144" ph="/// stores the color name as a string ... " />
+                <marker date="1550510874205" expanded="true" signature="1208:1346" ph="/// drives this class by creating the values for each the, hexColor, rgbColor, the colorname  ... " />
+                <marker date="1550510874205" expanded="true" signature="1378:1509" ph="{...}" />
+                <marker date="1550510874205" expanded="true" signature="1518:1645" ph="/// creates a random color from the System.Drawing.Color class the enum KnownColor ... " />
+                <marker date="1550510874205" expanded="true" signature="1685:1980" ph="{...}" />
+                <marker date="1550510874205" expanded="true" signature="1989:2135" ph="/// converts the color to a hexidecimal color representaiton ... " />
+                <marker date="1550510874205" expanded="true" signature="2184:2293" ph="{...}" />
+                <marker date="1550510874205" expanded="true" signature="2302:2430" ph="/// converts the color value to a rgbvalue ... " />
+                <marker date="1550510874205" expanded="true" signature="2480:2612" ph="{...}" />
+                <marker date="1550510874205" expanded="true" signature="2630:2771" ph="/// returns the values of the ColorGenerator object as as string ... " />
+                <marker date="1550510874205" expanded="true" signature="2804:2990" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/CityNames.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191850">
+              <caret line="12799" column="18" selection-start-line="12799" selection-start-column="8" selection-end-line="12799" selection-end-column="18" />
+              <folding>
+                <marker date="1550376164685" expanded="false" signature="0:515" ph="/* Project: Project 1 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/CompanySuffixes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <marker date="1550374761798" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1550374761798" expanded="true" signature="535:717" ph="{...}" />
+                <marker date="1550374761798" expanded="true" signature="542:609" ph="/// enum for the Company class ... " />
+                <marker date="1550374761798" expanded="true" signature="641:715" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/CompanyNames.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding>
+                <marker date="1550374794260" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1550374794260" expanded="true" signature="535:949" ph="{...}" />
+                <marker date="1550374794260" expanded="true" signature="546:635" ph="/// enum for the company names for the Company class ... " />
+                <marker date="1550374794260" expanded="true" signature="664:947" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/JobTitles.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <marker date="1550372018748" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1550372018748" expanded="true" signature="535:1829" ph="{...}" />
+                <marker date="1550372018748" expanded="true" signature="542:623" ph="/// enum of job titles for the Company Class ... " />
+                <marker date="1550372018748" expanded="true" signature="649:1827" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/Female.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="39" />
+              <folding>
+                <marker date="1550378733447" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1550378733447" expanded="false" signature="523:552" ph="..." />
+                <marker date="1550378733447" expanded="true" signature="573:4526" ph="{...}" />
+                <marker date="1550378733447" expanded="true" signature="580:668" ph="/// Female class that extends from the Person class ... " />
+                <marker date="1550378733447" expanded="true" signature="701:4524" ph="{...}" />
+                <marker date="1550378733447" expanded="true" signature="720:831" ph="/// Female Title is the prefx to be added to the persons full name ... " />
+                <marker date="1550378733447" expanded="true" signature="888:1004" ph="/// It is the Female classes first name veraible that will be set later ... " />
+                <marker date="1550378733447" expanded="true" signature="1069:1185" ph="/// It is the Female classes first name veraible that will be set later ... " />
+                <marker date="1550378733447" expanded="true" signature="1248:1360" ph="/// string that stores an email created throught the Internet class ... " />
+                <marker date="1550378733447" expanded="true" signature="1418:1503" ph="/// Internet object for the female class ... " />
+                <marker date="1550378733447" expanded="true" signature="1566:1683" ph="/// creates a ColorGenerator variable for storing a randome color object ... " />
+                <marker date="1550378733447" expanded="true" signature="1745:1932" ph="/// Defult constructor for the Female Class. Set the Birthdate, the FirstName, Title, LastName, femaleInternet, t ... " />
+                <marker date="1550378733447" expanded="true" signature="1956:3345" ph="{...}" />
+                <marker date="1550378733447" expanded="true" signature="3363:3514" ph="/// Gets the random age defined by the birthdate ... " />
+                <marker date="1550378733447" expanded="true" signature="3551:3754" ph="{...}" />
+                <marker date="1550378733447" expanded="true" signature="3763:3961" ph="/// Returns the Female class values: FirstName, LastName, Title, Age, Birthdate ... " />
+                <marker date="1550378733447" expanded="true" signature="4003:4518" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/PhoneNumber.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="77" column="62" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
+              <folding>
+                <marker date="1551887602455" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1551887602455" expanded="false" signature="522:548" ph="..." />
+                <marker date="1551887602455" expanded="true" signature="569:2858" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="580:703" ph="/// phone number creates a valid phone number and also offers the option to delimit it ... " />
+                <marker date="1551887602455" expanded="true" signature="732:2856" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="751:873" ph="/// stringbuilder for the phonenumber allowing it to be created and delimited ... " />
+                <marker date="1551887602455" expanded="true" signature="956:1073" ph="/// main method for the phonenumber class that generates the phonenumber ... " />
+                <marker date="1551887602455" expanded="true" signature="1102:1157" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="1166:1294" ph="/// generates a phone number that keeps the second that third numbers from matching ... " />
+                <marker date="1551887602455" expanded="true" signature="1336:2039" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="1831:1906" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="1947:2028" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="2049:2335" ph="/// Returns the generated phone number delimited by the char passed in. Format example [123-456-7890] ... " />
+                <marker date="1551887602455" expanded="true" signature="2394:2562" ph="{...}" />
+                <marker date="1551887602455" expanded="true" signature="2571:2722" ph="/// returns the vlaues phone numebr delimited by the genaric delimiter '-' ... " />
+                <marker date="1551887602455" expanded="true" signature="2764:2850" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project 1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <folding>
+                <marker date="1552053362173" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1552053362173" expanded="false" signature="522:574" ph="..." />
+                <marker date="1552053362173" expanded="true" signature="609:1335" ph="{...}" />
+                <marker date="1552053362173" expanded="true" signature="616:713" ph="/// this is the main class driver for the Project 1 solution ... " />
+                <marker date="1552053362173" expanded="true" signature="731:1333" ph="{...}" />
+                <marker date="1552053362173" expanded="true" signature="746:935" ph="/// the main method that drives all the classes and creats male and female persons aswell as a text file ... " />
+                <marker date="1552053362173" expanded="true" signature="975:1327" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project 1/Male.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <marker date="1550378844303" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+                <marker date="1550378844303" expanded="false" signature="523:552" ph="..." />
+                <marker date="1550378844303" expanded="true" signature="573:4491" ph="{...}" />
+                <marker date="1550378844303" expanded="true" signature="584:670" ph="/// Male class that extends from the Person class ... " />
+                <marker date="1550378844303" expanded="true" signature="701:4489" ph="{...}" />
+                <marker date="1550378844303" expanded="true" signature="720:828" ph="/// Male Title is the prefx to be added to the persons fullname ... " />
+                <marker date="1550378844303" expanded="true" signature="883:997" ph="/// It is the Male classes first name veraible that will be set later ... " />
+                <marker date="1550378844303" expanded="true" signature="1060:1174" ph="/// It is the Male classes first name veraible that will be set later ... " />
+                <marker date="1550378844303" expanded="true" signature="1244:1356" ph="/// string that stores an email created throught the Internet class ... " />
+                <marker date="1550378844303" expanded="true" signature="1412:1495" ph="/// Internet object for the male class ... " />
+                <marker date="1550378844303" expanded="true" signature="1565:1682" ph="/// creates a ColorGenerator variable for storing a randome color object ... " />
+                <marker date="1550378844303" expanded="true" signature="1750:1933" ph="/// Defult constructor for the Male Class. Set the Birthdate, the FirstName, Title, LastName, maleInternet, the a ... " />
+                <marker date="1550378844303" expanded="true" signature="1955:3297" ph="{...}" />
+                <marker date="1550378844303" expanded="true" signature="3333:3484" ph="/// Gets the random age defined by the birthdate ... " />
+                <marker date="1550378844303" expanded="true" signature="3521:3716" ph="{...}" />
+                <marker date="1550378844303" expanded="true" signature="3732:3930" ph="/// Returns the Female class values: FirstName, LastName, Title, Age, Birthdate ... " />
+                <marker date="1550378844303" expanded="true" signature="3972:4483" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>male</find>
+      <find>first</find>
+      <find>email</find>
+      <find>eat</find>
+      <find>bill</find>
+      <find>last</find>
+      <find>lastname</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Project 1/JobTitles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/CompanySuffixes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/CompanyNames.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Internet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Male.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/StreetName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/StreetType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Text.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/MaleFirstName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/MaleTitle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/FemaleFirstName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/CityNames.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Female.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/FemaleTitle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/CardTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/CreditCard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/LastName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/PhoneNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/ColorGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/DomainNames.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/SSN.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/TLDNames.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project 1/Company.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project 1/CompanyTitles.cs" />
+        <option value="$PROJECT_DIR$/Project 1/companySuffixes.cs" />
+        <option value="$PROJECT_DIR$/Project 1/TestingForProject1.txt" />
+        <option value="$PROJECT_DIR$/Project 1/StreetType.cs" />
+        <option value="$PROJECT_DIR$/Project 1/StreetName.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Person.cs" />
+        <option value="$PROJECT_DIR$/Project 1/MaleTitle.cs" />
+        <option value="$PROJECT_DIR$/Project 1/TLDNames.cs" />
+        <option value="$PROJECT_DIR$/Project 1/MaleFirstName.cs" />
+        <option value="$PROJECT_DIR$/Project 1/LastName.cs" />
+        <option value="$PROJECT_DIR$/Project 1/JobTitles.cs" />
+        <option value="$PROJECT_DIR$/Project 1/FemaleTitle.cs" />
+        <option value="$PROJECT_DIR$/Project 1/FemaleFirstName.cs" />
+        <option value="$PROJECT_DIR$/Project 1/DomainNames.cs" />
+        <option value="$PROJECT_DIR$/Project 1/CreditCard.cs" />
+        <option value="$PROJECT_DIR$/Project 1/CompanySuffixes.cs" />
+        <option value="$PROJECT_DIR$/Project 1/CompanyNames.cs" />
+        <option value="$PROJECT_DIR$/Project 1/CityNames.cs" />
+        <option value="$PROJECT_DIR$/Project 1/CardTypes.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Company.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Internet.cs" />
+        <option value="$PROJECT_DIR$/Project 1/SSN.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Female.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Male.cs" />
+        <option value="$PROJECT_DIR$/Project 1/ColorGenerator.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Address.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Text.cs" />
+        <option value="$PROJECT_DIR$/Project 1/PhoneNumber.cs" />
+        <option value="$PROJECT_DIR$/Project 1/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSCI 2910 Project 1 2.0" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSCI 2910 Project 1 2.0" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Project 1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sybase&#10;sqlite" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WorkingWithStrings/WorkingWithStrings/WorkingWithStrings.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Project 1/bin/Debug/netcoreapp2.2/Project 1.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project 1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Project 1/Project 1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3efc870-1a01-4ffb-a519-bf9aca7f7cdc" name="Default Changelist" comment="" />
+      <created>1550287954496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550287954496</updated>
+      <workItem from="1550287955810" duration="261000" />
+      <workItem from="1550288235056" duration="45476000" />
+      <workItem from="1550374733207" duration="3986000" />
+      <workItem from="1550510612629" duration="652000" />
+      <workItem from="1551288589867" duration="674000" />
+      <workItem from="1551886839607" duration="1210000" />
+      <workItem from="1552053307601" duration="207000" />
+    </task>
+    <option name="searchClosedTasks" value="true" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52466000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4944" visible="true" weight="0.15307583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5056" side_tool="true" weight="0.16738197" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.96385545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.96385545" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.23676682" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4944" visible="true" weight="0.16738197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5056" side_tool="true" weight="0.16738197" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.4698795" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.23253012" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Project 1/ColorNames.cs" />
+    <entry file="file://$PROJECT_DIR$/Project 1/TestingForProject1.cs" />
+    <entry file="file://$PROJECT_DIR$/Project 1/TestingForProject1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37531">
+          <caret line="6227" lean-forward="true" selection-start-line="6227" selection-end-line="6227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/MaleTitle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550371490573" expanded="true" signature="0:520" ph="/* Project: Project 1 ... */" />
+            <marker date="1550371490573" expanded="true" signature="547:644" ph="/// Enumerated list of Male Titles for the Male Person Class ... " />
+            <marker date="1550371490573" expanded="true" signature="670:719" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/TLDNames.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <marker date="1550371535534" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550371535534" expanded="true" signature="542:610" ph="///  ... " />
+            <marker date="1550371535534" expanded="true" signature="635:7186" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/StreetType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550370006015" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550370006015" expanded="true" signature="542:636" ph="/// Enumerated list of Street Types for the Address Class ... " />
+            <marker date="1550370006015" expanded="true" signature="663:885" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/StreetName.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550370017025" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550370017025" expanded="true" signature="546:640" ph="/// Enumerated list of Street Names for the Address Class ... " />
+            <marker date="1550370017025" expanded="true" signature="667:850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/MaleFirstName.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550371558496" expanded="true" signature="0:520" ph="/* Project: Project 1 ... */" />
+            <marker date="1550371558496" expanded="true" signature="547:649" ph="/// Enumerated list of Male First Names for the Male Person Class ... " />
+            <marker date="1550371558496" expanded="true" signature="679:1008" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/LastName.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550372019740" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550372019740" expanded="true" signature="543:645" ph="/// Enumerated list of Last Names for the Male and Female Classes ... " />
+            <marker date="1550372019740" expanded="true" signature="670:1325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/FixedSampleText.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/FemaleTitle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" lean-forward="true" selection-start-column="53" selection-end-column="53" />
+          <folding>
+            <marker date="1550374282097" expanded="true" signature="0:520" ph="/* Project: Project 1 ... */" />
+            <marker date="1550374282097" expanded="true" signature="547:648" ph="/// Enumerated list of Female Titles for the Female Person Class ... " />
+            <marker date="1550374282097" expanded="true" signature="676:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/FemaleFirstName.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550374283239" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550374283239" expanded="true" signature="543:647" ph="/// Enumerated list of Male First Names for the Female Person Class ... " />
+            <marker date="1550374283239" expanded="true" signature="679:1010" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/DomainNames.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <marker date="1550374284693" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550374284693" expanded="true" signature="542:618" ph="///  ... " />
+            <marker date="1550374284693" expanded="true" signature="646:9551" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/CardTypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1550376222434" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550376222434" expanded="true" signature="535:749" ph="{...}" />
+            <marker date="1550376222434" expanded="true" signature="542:631" ph="///  ... " />
+            <marker date="1550376222434" expanded="true" signature="657:747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Company.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1550376794282" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550376794282" expanded="true" signature="550:3028" ph="{...}" />
+            <marker date="1550376794282" expanded="true" signature="561:664" ph="/// creates a company with a name, company suffic, and a job title ... " />
+            <marker date="1550376794282" expanded="true" signature="689:3026" ph="{...}" />
+            <marker date="1550376794282" expanded="true" signature="708:809" ph="/// company name stored as a sting that is created later ... " />
+            <marker date="1550376794282" expanded="true" signature="876:977" ph="///  company suffic created later and stored as a string ... " />
+            <marker date="1550376794282" expanded="true" signature="1037:1122" ph="/// company job title sotred as a string ... " />
+            <marker date="1550376794282" expanded="true" signature="1186:1334" ph="/// creates a company by utilizing the methods that create the values of its name, suffic and job title ... " />
+            <marker date="1550376794282" expanded="true" signature="1359:1485" ph="{...}" />
+            <marker date="1550376794282" expanded="true" signature="1494:1622" ph="/// creates a company name from a random selection from the enum class CompanyNames ... " />
+            <marker date="1550376794282" expanded="true" signature="1664:1887" ph="{...}" />
+            <marker date="1550376794282" expanded="true" signature="1896:2009" ph="/// selects a company suffix at random from the enum commpansuffixes ... " />
+            <marker date="1550376794282" expanded="true" signature="2053:2290" ph="{...}" />
+            <marker date="1550376794282" expanded="true" signature="2299:2419" ph="/// creates a random job title for the company user from the enum JobTitles ... " />
+            <marker date="1550376794282" expanded="true" signature="2458:2666" ph="{...}" />
+            <marker date="1550376794282" expanded="true" signature="2675:2809" ph="/// returns the values of the created company as a string ... " />
+            <marker date="1550376794282" expanded="true" signature="2851:3020" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/CreditCard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="163" column="39" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="39" />
+          <folding>
+            <marker date="1550374690896" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550374690896" expanded="false" signature="522:593" ph="..." />
+            <marker date="1550374690896" expanded="true" signature="614:6858" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="625:727" ph="/// generats all the value needed to formulate a mock credit card ... " />
+            <marker date="1550374690896" expanded="true" signature="755:6856" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="774:856" ph="/// string holding the card type name ... " />
+            <marker date="1550374690896" expanded="true" signature="910:1008" ph="/// string card number holding the credit card number ... " />
+            <marker date="1550374690896" expanded="true" signature="1064:1156" ph="/// string holding the CVV number for this card ... " />
+            <marker date="1550374690896" expanded="true" signature="1211:1310" ph="/// string experation date set from the DateTime class ... " />
+            <marker date="1550374690896" expanded="true" signature="1379:1506" ph="/// main driver for the credit card class, sets and calls the methods to create it ... " />
+            <marker date="1550374690896" expanded="false" signature="1534:5361" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="1957:2734" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="2418:2530" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="2803:3528" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="3260:3348" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="3599:4519" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="4213:4320" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="4584:5178" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="4882:4983" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="5195:5286" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="5380:5495" ph="/// generates and sets the experation date by using the DateTime class ... " />
+            <marker date="1550374690896" expanded="true" signature="5540:5753" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="5771:5883" ph="/// updates the credit card by creating a new CreditCard wen called ... " />
+            <marker date="1550374690896" expanded="true" signature="5922:5985" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="5994:6094" ph="/// generates a random CVV number for the credit card   ... " />
+            <marker date="1550374690896" expanded="true" signature="6128:6445" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="6297:6382" ph="{...}" />
+            <marker date="1550374690896" expanded="true" signature="6455:6581" ph="/// returns the values of this class as a stiring ... " />
+            <marker date="1550374690896" expanded="true" signature="6623:6841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Internet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-227">
+          <caret line="282" column="38" selection-start-line="282" selection-start-column="38" selection-end-line="282" selection-end-column="38" />
+          <folding>
+            <marker date="1550377254298" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550377254298" expanded="false" signature="522:671" ph="..." />
+            <marker date="1550377254298" expanded="true" signature="692:12373" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="699:792" ph="/// creates genaric information for a online information ... " />
+            <marker date="1550377254298" expanded="true" signature="818:12371" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="833:912" ph="/// string for the email set later ... " />
+            <marker date="1550377254298" expanded="true" signature="964:1066" ph="/// stirng variable to store the password generated later ... " />
+            <marker date="1550377254298" expanded="true" signature="1121:1208" ph="/// string holding the TLD generated later ... " />
+            <marker date="1550377254298" expanded="true" signature="1269:1360" ph="/// string for the domain name generated later ... " />
+            <marker date="1550377254298" expanded="true" signature="1417:1518" ph="/// stirng for the url generated from the TLD and the DN ... " />
+            <marker date="1550377254298" expanded="true" signature="1568:1672" ph="/// string for the iPv4Address that will be generated later ... " />
+            <marker date="1550377254298" expanded="true" signature="1730:1821" ph="/// string for the mac address generated later ... " />
+            <marker date="1550377254298" expanded="true" signature="1878:1988" ph="/// string for the phonenumber gathered from the phonmunber class ... " />
+            <marker date="1550377254298" expanded="true" signature="2046:2137" ph="/// credidCard generated from CreditCard class ... " />
+            <marker date="1550377254298" expanded="true" signature="2198:2393" ph="/// calls all the methods that create the TLD, DN, the url, generate ipv4address, and mac addres ... " />
+            <marker date="1550377254298" expanded="false" signature="2419:2828" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="2846:3078" ph="/// generates an email based on the first and last names passed in ... " />
+            <marker date="1550377254298" expanded="false" signature="3149:3517" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="3535:3753" ph="/// generates a password by adding and converting the first and last names passed in ... " />
+            <marker date="1550377254298" expanded="false" signature="3825:4710" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="4480:4565" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="4728:4845" ph="/// generates a top level domain useining the enum TLDNames for refrence ... " />
+            <marker date="1550377254298" expanded="false" signature="4890:5253" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="5263:5382" ph="/// generates a domain name and utilizes the enum DomainNames for refrence ... " />
+            <marker date="1550377254298" expanded="true" signature="5423:5654" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="5664:5757" ph="/// generates a url with the TLD and domain name ... " />
+            <marker date="1550377254298" expanded="true" signature="5791:6035" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="6053:6162" ph="/// generates an ipV4address acording to the stardereds there of ... " />
+            <marker date="1550377254298" expanded="false" signature="6204:10230" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="6750:7152" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="6861:7122" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="6974:7083" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="7200:7703" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="7412:7673" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="7525:7634" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="7751:8270" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="7979:8240" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="8092:8201" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="8318:9581" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="8615:9062" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="8681:8827" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="8875:9044" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="9117:9466" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="9279:9448" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="9629:10052" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="9857:10022" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="10069:10167" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="10240:10366" ph="/// generates a mac address by converting an array of bytes to hex and delimeting ... " />
+            <marker date="1550377254298" expanded="true" signature="10407:10751" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="10769:10986" ph="/// updates the users email by complicating the preveous email using the first name ... " />
+            <marker date="1550377254298" expanded="true" signature="11053:11840" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="11408:11542" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="11597:11788" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="11657:11774" ph="{...}" />
+            <marker date="1550377254298" expanded="true" signature="11849:11983" ph="/// returns the values of the internet class as an string ... " />
+            <marker date="1550377254298" expanded="true" signature="12016:12365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <marker date="1550371544216" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550371544216" expanded="false" signature="523:568" ph="..." />
+            <marker date="1550371544216" expanded="true" signature="590:1832" ph="{...}" />
+            <marker date="1550371544216" expanded="true" signature="597:707" ph="/// Abstract Base Class that the Male and Female classes are derived from ... " />
+            <marker date="1550371544216" expanded="true" signature="740:1830" ph="{...}" />
+            <marker date="1550371544216" expanded="true" signature="749:854" ph="/// public variable last name for all persons Male or Female ... " />
+            <marker date="1550371544216" expanded="true" signature="911:1016" ph="/// public variable last name for all persons Male or Female ... " />
+            <marker date="1550371544216" expanded="true" signature="1074:1181" ph="/// instacheates a SSN for the derived classes male and female ... " />
+            <marker date="1550371544216" expanded="true" signature="1253:1364" ph="/// instacheates a Address for the derived classes male and female ... " />
+            <marker date="1550371544216" expanded="true" signature="1418:1529" ph="/// instacheates a Company for the derived classes male and female ... " />
+            <marker date="1550371544216" expanded="true" signature="1583:1785" ph="/// creates a variable for the age values in the male and female classes ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/SSN.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <marker date="1550377904545" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550377904545" expanded="false" signature="523:549" ph="..." />
+            <marker date="1550377904545" expanded="true" signature="570:10504" ph="{...}" />
+            <marker date="1550377904545" expanded="true" signature="575:684" ph="/// makes a Socil security number that is out side the bonds of real SSN ... " />
+            <marker date="1550377904545" expanded="true" signature="705:10502" ph="{...}" />
+            <marker date="1550377904545" expanded="true" signature="723:798" ph="/// string for holding the SSN ... " />
+            <marker date="1550377904545" expanded="true" signature="863:1004" ph="/// generates a socail securiy number when called and sets it to the string socialSecuritNumber  ... " />
+            <marker date="1550377904545" expanded="true" signature="1038:10278" ph="{...}" />
+            <marker date="1550377904545" expanded="false" signature="1331:9862" ph="/* I created a system to generate valid SSN for each person based on their address. ... */" />
+            <marker date="1550377904545" expanded="true" signature="10296:10403" ph="/// &lt;summary&gt; ... " />
+            <marker date="1550377904545" expanded="true" signature="10436:10496" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2865">
+          <caret line="454" column="45" selection-start-line="454" selection-start-column="45" selection-end-line="454" selection-end-column="45" />
+          <folding>
+            <marker date="1551887376397" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1551887376397" expanded="false" signature="522:563" ph="..." />
+            <marker date="1551887376397" expanded="true" signature="584:29450" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="591:682" ph="/// Creates an address in the United States Of America ... " />
+            <marker date="1551887376397" expanded="true" signature="707:29448" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="722:803" ph="/// Random Number between 1 and 5000 ... " />
+            <marker date="1551887376397" expanded="true" signature="858:983" ph="/// Name of the street in the address that is set from the StreetName Enum Class ... " />
+            <marker date="1551887376397" expanded="true" signature="1040:1144" ph="/// Prefx of street gathered from the StreetType Enum class ... " />
+            <marker date="1551887376397" expanded="true" signature="1201:1293" ph="/// is a city set from the CityNames Enum Class ... " />
+            <marker date="1551887376397" expanded="true" signature="1344:1456" ph="/// state for the address and is gathered later from the dictionary ... " />
+            <marker date="1551887376397" expanded="true" signature="1507:1630" ph="/// zipcode for the address class and is set later in the AssignZipCode method ... " />
+            <marker date="1551887376397" expanded="true" signature="1684:1793" ph="/// Dictionary that will be filled with the 50 states of america ... " />
+            <marker date="1551887376397" expanded="true" signature="1877:2047" ph="/// String for storing the Country of the address, Defult is the United States, will be changed with an internati ... " />
+            <marker date="1551887376397" expanded="true" signature="2109:2307" ph="/// Defult constructor for the Address class and sets the HouseNumber, StreetName, StreetType, City, StateDiction ... " />
+            <marker date="1551887376397" expanded="true" signature="2332:3027" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="3036:3449" ph="/// Creates a new address acording to all the values passed in ... " />
+            <marker date="1551887376397" expanded="true" signature="3622:3902" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="3911:4077" ph="/// Creates a dictionary of all the states in the US, keys are the state abreveations and the values are the stat ... " />
+            <marker date="1551887376397" expanded="true" signature="4121:6056" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="4206:6045" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="6065:6262" ph="/// this method sets the state city from the enum file citynames with enum for each of the 50 states ... " />
+            <marker date="1551887376397" expanded="true" signature="6320:19226" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="6449:6650" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="6702:6902" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="6954:7155" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="7207:7409" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="7461:7664" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="7716:7918" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="7970:8175" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="8227:8429" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="8481:8682" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="8734:8935" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="8987:9187" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="9239:9438" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="9490:9692" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="9744:9945" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="9997:10195" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="10247:10446" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="10498:10700" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="10752:10955" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="11007:11206" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="11258:11460" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="11512:11719" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="11771:11973" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="12025:12228" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="12280:12485" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="12537:12739" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="12791:12992" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="13044:13246" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="13298:13498" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="13550:13757" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="13809:14013" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="14065:14269" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="14321:14523" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="14575:14783" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="14835:15041" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="15093:15291" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="15343:15545" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="15597:15797" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="15849:16055" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="16107:16312" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="16364:16572" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="16624:16830" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="16882:17081" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="17133:17336" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="17388:17586" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="17638:17839" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="17891:18093" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="18145:18349" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="18401:18608" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="18660:18863" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="18915:19116" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="19133:19215" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="19235:19391" ph="/// Set the State abreveation based on the Dicitonary Keys ... " />
+            <marker date="1551887376397" expanded="true" signature="19440:19951" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="19707:19913" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="19773:19882" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="19960:20107" ph="/// Sets the State Name by accessing the StateDictionary ... " />
+            <marker date="1551887376397" expanded="true" signature="20148:20449" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="20458:20638" ph="/// Sets the ZipCode based on the State Abreveation and acording to the zip code areas ... " />
+            <marker date="1551887376397" expanded="true" signature="20676:28349" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="20898:20993" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21045:21140" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21192:21287" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21339:21434" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21486:21581" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21633:21728" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21780:21875" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="21927:22022" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22074:22169" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22221:22316" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22368:22463" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22515:22610" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22662:22757" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22809:22904" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="22956:23051" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23103:23198" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23250:23345" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23397:23492" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23544:23639" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23691:23786" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23838:23933" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="23985:24080" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="24132:24227" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="24279:24374" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="24426:24521" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="24573:24668" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="24720:24816" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="24868:24963" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25015:25110" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25162:25257" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25309:25404" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25456:25551" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25603:25698" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25750:25845" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="25897:25991" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26043:26138" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26190:26285" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26337:26432" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26484:26579" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26631:26726" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26778:26873" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="26925:27020" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27072:27167" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27219:27314" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27366:27461" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27513:27608" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27660:27755" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27807:27902" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="27954:28049" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="28101:28196" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="28213:28311" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="28367:28650" ph="/// Returns the values as strings of State, State Abbreveation, House Number, StreetName, City, ZipCode, Street N ... " />
+            <marker date="1551887376397" expanded="true" signature="28683:29030" ph="{...}" />
+            <marker date="1551887376397" expanded="true" signature="29039:29167" ph="/// Returns the values of the International Address ... " />
+            <marker date="1551887376397" expanded="true" signature="29213:29442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Text.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2865">
+          <caret line="200" column="38" selection-start-line="200" selection-start-column="38" selection-end-line="200" selection-end-column="38" />
+          <folding>
+            <marker date="1551887393302" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1551887393302" expanded="false" signature="522:751" ph="..." />
+            <marker date="1551887393302" expanded="true" signature="772:7929" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="779:898" ph="/// This class collects and minipulates the text in the file &quot;FixedSampleText.txt&quot; ... " />
+            <marker date="1551887393302" expanded="true" signature="920:7927" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="935:1047" ph="/// this string will be set to a random sentence from the text file ... " />
+            <marker date="1551887393302" expanded="true" signature="1108:1217" ph="/// this string will be set to a random word from the text file  ... " />
+            <marker date="1551887393302" expanded="true" signature="1274:1386" ph="/// this string list will hold all the sentences from the text file ... " />
+            <marker date="1551887393302" expanded="true" signature="1448:1553" ph="/// this sting list will hold all the words in the text file ... " />
+            <marker date="1551887393302" expanded="true" signature="1611:1716" ph="/// a string that is a randome length cut from the text file ... " />
+            <marker date="1551887393302" expanded="true" signature="1772:1897" ph="/// a string of random length in the same sequence as they were in the text file ... " />
+            <marker date="1551887393302" expanded="true" signature="1954:2050" ph="/// string holding the unchanged text from the file ... " />
+            <marker date="1551887393302" expanded="true" signature="2105:2198" ph="/// counter for the number of sentences gathered ... " />
+            <marker date="1551887393302" expanded="true" signature="2253:2342" ph="/// counter for the number of words gathered ... " />
+            <marker date="1551887393302" expanded="true" signature="2397:2690" ph="/// iniciates all the functions of this method including, reading in the file, ... " />
+            <marker date="1551887393302" expanded="true" signature="2712:3112" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="3121:3265" ph="/// Creates a list of all words in the string passed in ... " />
+            <marker date="1551887393302" expanded="true" signature="3317:3893" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="3403:3630" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="3778:3870" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="3911:4065" ph="/// creates a list of all the sentences from the passed in string ... " />
+            <marker date="1551887393302" expanded="true" signature="4121:4691" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="4332:4439" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="4571:4681" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="4701:4813" ph="/// sets the randomeWord string to a random word from the word list ... " />
+            <marker date="1551887393302" expanded="true" signature="4852:5010" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="5028:5152" ph="/// set the random sentence string to a randome sentence from the sentence list ... " />
+            <marker date="1551887393302" expanded="true" signature="5196:5374" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="5392:5511" ph="/// creates a paragraph of senteces in subsequent order of a random length ... " />
+            <marker date="1551887393302" expanded="true" signature="5549:6333" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="5899:6273" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="5981:6044" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="6351:6507" ph="/// creates a string of subsequent words with a length passed in  ... " />
+            <marker date="1551887393302" expanded="true" signature="6560:7258" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="6854:7192" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="6928:6991" ph="{...}" />
+            <marker date="1551887393302" expanded="true" signature="7268:7427" ph="/// retuns values created and gathered in this class as a string ... " />
+            <marker date="1551887393302" expanded="true" signature="7469:7921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/ColorGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <marker date="1550510874205" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550510874205" expanded="false" signature="522:551" ph="..." />
+            <marker date="1550510874205" expanded="true" signature="572:2999" ph="{...}" />
+            <marker date="1550510874205" expanded="true" signature="583:689" ph="/// creates a randome color with values for hex, rgb and a color name ... " />
+            <marker date="1550510874205" expanded="true" signature="721:2997" ph="{...}" />
+            <marker date="1550510874205" expanded="true" signature="740:847" ph="/// stores the value of the color as a hexidicimal in a string ... " />
+            <marker date="1550510874205" expanded="true" signature="902:1007" ph="/// stores the value of the color as a rgb color in a string ... " />
+            <marker date="1550510874205" expanded="true" signature="1062:1144" ph="/// stores the color name as a string ... " />
+            <marker date="1550510874205" expanded="true" signature="1208:1346" ph="/// drives this class by creating the values for each the, hexColor, rgbColor, the colorname  ... " />
+            <marker date="1550510874205" expanded="true" signature="1378:1509" ph="{...}" />
+            <marker date="1550510874205" expanded="true" signature="1518:1645" ph="/// creates a random color from the System.Drawing.Color class the enum KnownColor ... " />
+            <marker date="1550510874205" expanded="true" signature="1685:1980" ph="{...}" />
+            <marker date="1550510874205" expanded="true" signature="1989:2135" ph="/// converts the color to a hexidecimal color representaiton ... " />
+            <marker date="1550510874205" expanded="true" signature="2184:2293" ph="{...}" />
+            <marker date="1550510874205" expanded="true" signature="2302:2430" ph="/// converts the color value to a rgbvalue ... " />
+            <marker date="1550510874205" expanded="true" signature="2480:2612" ph="{...}" />
+            <marker date="1550510874205" expanded="true" signature="2630:2771" ph="/// returns the values of the ColorGenerator object as as string ... " />
+            <marker date="1550510874205" expanded="true" signature="2804:2990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/CityNames.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191850">
+          <caret line="12799" column="18" selection-start-line="12799" selection-start-column="8" selection-end-line="12799" selection-end-column="18" />
+          <folding>
+            <marker date="1550376164685" expanded="false" signature="0:515" ph="/* Project: Project 1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/CompanySuffixes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <marker date="1550374761798" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550374761798" expanded="true" signature="542:609" ph="/// enum for the Company class ... " />
+            <marker date="1550374761798" expanded="true" signature="641:715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/CompanyNames.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <marker date="1550374794260" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550374794260" expanded="true" signature="546:635" ph="/// enum for the company names for the Company class ... " />
+            <marker date="1550374794260" expanded="true" signature="664:947" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/JobTitles.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <marker date="1550372018748" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550372018748" expanded="true" signature="542:623" ph="/// enum of job titles for the Company Class ... " />
+            <marker date="1550372018748" expanded="true" signature="649:1827" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Female.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <marker date="1550378733447" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550378733447" expanded="false" signature="523:552" ph="..." />
+            <marker date="1550378733447" expanded="true" signature="573:4526" ph="{...}" />
+            <marker date="1550378733447" expanded="true" signature="580:668" ph="/// Female class that extends from the Person class ... " />
+            <marker date="1550378733447" expanded="true" signature="701:4524" ph="{...}" />
+            <marker date="1550378733447" expanded="true" signature="720:831" ph="/// Female Title is the prefx to be added to the persons full name ... " />
+            <marker date="1550378733447" expanded="true" signature="888:1004" ph="/// It is the Female classes first name veraible that will be set later ... " />
+            <marker date="1550378733447" expanded="true" signature="1069:1185" ph="/// It is the Female classes first name veraible that will be set later ... " />
+            <marker date="1550378733447" expanded="true" signature="1248:1360" ph="/// string that stores an email created throught the Internet class ... " />
+            <marker date="1550378733447" expanded="true" signature="1418:1503" ph="/// Internet object for the female class ... " />
+            <marker date="1550378733447" expanded="true" signature="1566:1683" ph="/// creates a ColorGenerator variable for storing a randome color object ... " />
+            <marker date="1550378733447" expanded="true" signature="1745:1932" ph="/// Defult constructor for the Female Class. Set the Birthdate, the FirstName, Title, LastName, femaleInternet, t ... " />
+            <marker date="1550378733447" expanded="true" signature="1956:3345" ph="{...}" />
+            <marker date="1550378733447" expanded="true" signature="3363:3514" ph="/// Gets the random age defined by the birthdate ... " />
+            <marker date="1550378733447" expanded="true" signature="3551:3754" ph="{...}" />
+            <marker date="1550378733447" expanded="true" signature="3763:3961" ph="/// Returns the Female class values: FirstName, LastName, Title, Age, Birthdate ... " />
+            <marker date="1550378733447" expanded="true" signature="4003:4518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Male.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <marker date="1550378844303" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1550378844303" expanded="false" signature="523:552" ph="..." />
+            <marker date="1550378844303" expanded="true" signature="584:670" ph="/// Male class that extends from the Person class ... " />
+            <marker date="1550378844303" expanded="true" signature="701:4489" ph="{...}" />
+            <marker date="1550378844303" expanded="true" signature="720:828" ph="/// Male Title is the prefx to be added to the persons fullname ... " />
+            <marker date="1550378844303" expanded="true" signature="883:997" ph="/// It is the Male classes first name veraible that will be set later ... " />
+            <marker date="1550378844303" expanded="true" signature="1060:1174" ph="/// It is the Male classes first name veraible that will be set later ... " />
+            <marker date="1550378844303" expanded="true" signature="1244:1356" ph="/// string that stores an email created throught the Internet class ... " />
+            <marker date="1550378844303" expanded="true" signature="1412:1495" ph="/// Internet object for the male class ... " />
+            <marker date="1550378844303" expanded="true" signature="1565:1682" ph="/// creates a ColorGenerator variable for storing a randome color object ... " />
+            <marker date="1550378844303" expanded="true" signature="1750:1933" ph="/// Defult constructor for the Male Class. Set the Birthdate, the FirstName, Title, LastName, maleInternet, the a ... " />
+            <marker date="1550378844303" expanded="true" signature="1955:3297" ph="{...}" />
+            <marker date="1550378844303" expanded="true" signature="3333:3484" ph="/// Gets the random age defined by the birthdate ... " />
+            <marker date="1550378844303" expanded="true" signature="3521:3716" ph="{...}" />
+            <marker date="1550378844303" expanded="true" signature="3732:3930" ph="/// Returns the Female class values: FirstName, LastName, Title, Age, Birthdate ... " />
+            <marker date="1550378844303" expanded="true" signature="3972:4483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/PhoneNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="77" column="62" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
+          <folding>
+            <marker date="1551887602455" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1551887602455" expanded="false" signature="522:548" ph="..." />
+            <marker date="1551887602455" expanded="true" signature="569:2858" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="580:703" ph="/// phone number creates a valid phone number and also offers the option to delimit it ... " />
+            <marker date="1551887602455" expanded="true" signature="732:2856" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="751:873" ph="/// stringbuilder for the phonenumber allowing it to be created and delimited ... " />
+            <marker date="1551887602455" expanded="true" signature="956:1073" ph="/// main method for the phonenumber class that generates the phonenumber ... " />
+            <marker date="1551887602455" expanded="true" signature="1102:1157" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="1166:1294" ph="/// generates a phone number that keeps the second that third numbers from matching ... " />
+            <marker date="1551887602455" expanded="true" signature="1336:2039" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="1831:1906" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="1947:2028" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="2049:2335" ph="/// Returns the generated phone number delimited by the char passed in. Format example [123-456-7890] ... " />
+            <marker date="1551887602455" expanded="true" signature="2394:2562" ph="{...}" />
+            <marker date="1551887602455" expanded="true" signature="2571:2722" ph="/// returns the vlaues phone numebr delimited by the genaric delimiter '-' ... " />
+            <marker date="1551887602455" expanded="true" signature="2764:2850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <marker date="1552053362173" expanded="true" signature="0:515" ph="/* Project: Project 1 ... */" />
+            <marker date="1552053362173" expanded="false" signature="522:574" ph="..." />
+            <marker date="1552053362173" expanded="true" signature="609:1335" ph="{...}" />
+            <marker date="1552053362173" expanded="true" signature="616:713" ph="/// this is the main class driver for the Project 1 solution ... " />
+            <marker date="1552053362173" expanded="true" signature="731:1333" ph="{...}" />
+            <marker date="1552053362173" expanded="true" signature="746:935" ph="/// the main method that drives all the classes and creats male and female persons aswell as a text file ... " />
+            <marker date="1552053362173" expanded="true" signature="975:1327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

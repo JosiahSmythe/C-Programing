@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_CSCI 2910 Project 1 2.0.2094886735.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="CSCI 2910 Project 1 2.0.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Project 1" t="IncludeRecursive">
+        <e p="Address.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CardTypes.cs" t="Include" />
+        <e p="CityNames.cs" t="Include" />
+        <e p="ColorGenerator.cs" t="Include" />
+        <e p="Company.cs" t="Include" />
+        <e p="CompanyNames.cs" t="Include" />
+        <e p="companySuffixes.cs" t="Include" />
+        <e p="CreditCard.cs" t="Include" />
+        <e p="DomainNames.cs" t="Include" />
+        <e p="Female.cs" t="Include" />
+        <e p="FemaleFirstName.cs" t="Include" />
+        <e p="FemaleTitle.cs" t="Include" />
+        <e p="FixedSampleText.txt" t="Include" />
+        <e p="Internet.cs" t="Include" />
+        <e p="JobTitles.cs" t="Include" />
+        <e p="LastName.cs" t="Include" />
+        <e p="Male.cs" t="Include" />
+        <e p="MaleFirstName.cs" t="Include" />
+        <e p="MaleTitle.cs" t="Include" />
+        <e p="MovieTest.sqlite" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Project 1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Person.cs" t="Include" />
+        <e p="PhoneNumber.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Project 1.csproj" t="IncludeRecursive" />
+        <e p="SSN.cs" t="Include" />
+        <e p="StreetName.cs" t="Include" />
+        <e p="StreetType.cs" t="Include" />
+        <e p="TestingForProject1.txt" t="Include" />
+        <e p="Text.cs" t="Include" />
+        <e p="TLDNames.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
